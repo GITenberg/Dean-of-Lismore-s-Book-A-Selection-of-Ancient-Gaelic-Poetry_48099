@@ -1,0 +1,29 @@
+_repo: Dean-of-Lismore-s-Book-A-Selection-of-Ancient-Gaelic-Poetry_48099
+contributor:
+  contributor:
+    agent_name: Skene, William F.
+    gutenberg_agent_id: '44620'
+    url: http://www.gutenberg.org/2009/agents/44620
+  translator:
+    agent_name: M'Lauchlan, Thomas
+    gutenberg_agent_id: '44621'
+    url: http://www.gutenberg.org/2009/agents/44621
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Dean of Lismore''s Book
+
+  A Selection of Ancient Gaelic Poetry'
+url: http://www.gutenberg.org/ebooks/48099
